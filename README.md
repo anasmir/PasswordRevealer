@@ -12,7 +12,7 @@
 
 | Password Field Hidden | Password Field Revealed |
 |-----------------------|-------------------------|
-| ![Password Hidden](images/password_hidden.png) | ![Password Revealed](images/password_revealed.png) |
+| ![Password Hidden](images/password_hidden.PNG) | ![Password Revealed](images/password_revealed.PNG) |
 
 ## Installation
 
