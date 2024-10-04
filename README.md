@@ -2,7 +2,7 @@
 
 **Password Revealer** is a simple and effective Chrome extension that allows users to reveal password inputs as plain text by clicking on them. This functionality can be toggled on or off through a popup menu.
 
-## Features
+## Features 
 
 - **Toggle Password Visibility**: Click on any password input field to switch between password and plain text.
 - **User-Friendly Interface**: Easily enable or disable the password reveal functionality using a simple toggle button in the extension's popup.
