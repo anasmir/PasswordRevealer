@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Password Revealer",
+    "version": "1.0",
+    "description": "Click on password fields to reveal the text.",
+    "permissions": ["activeTab", "storage"],
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "images/revealer-16.png",
+      "32": "images/revealer-32.png",
+      "48": "images/revealer-48.png",
+      "128": "images/revealer-128.png"
+    }
+}
